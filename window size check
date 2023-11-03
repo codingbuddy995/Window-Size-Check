@@ -1,0 +1,4 @@
+let window size  = "your window size"
+if (jQuery(window).width() <= 767) {
+  //your code here
+}
